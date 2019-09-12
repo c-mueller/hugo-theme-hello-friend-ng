@@ -102,12 +102,7 @@ theme = "hello-friend-ng"
     [languages.en.params.logo]
       logoText = "hello friend ng"
       logoHomeLink = "/"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
 
-	# You can create a language based menu
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "about"
